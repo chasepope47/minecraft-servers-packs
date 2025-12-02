@@ -63,13 +63,5 @@ We use the official modpack from CurseForge.
 
 ---
 
-## 📸 Screenshots (Optional)
-_Replace these with your own images_
-
-![SkyFactory Menu](images/sf4-menu.png)
-![SkyFactory Gameplay](images/sf4-gameplay.png)
-
----
-
 Enjoy SkyFactory 4! 🌌🛠️  
 If you need help, open an issue or contact the server owner.

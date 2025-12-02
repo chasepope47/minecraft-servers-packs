@@ -57,14 +57,6 @@ Welcome to the Abyssal Ascent server! This guide shows how to download the modpa
 
 ---
 
-## 📸 Screenshots (Optional)
-Replace with images from the pack.
-
-![Abyssal Ascent Menu](images/aa-menu.png)
-![Abyssal Ascent Gameplay](images/aa-gameplay.png)
-
----
-
 ## 📝 Notes
 - Abyssal Ascent includes dimension-based terrain and many performance-heavy mods.  
 - If you experience stuttering, install **Sodium**, **Rubidium**, or **OptiFine** if supported.
